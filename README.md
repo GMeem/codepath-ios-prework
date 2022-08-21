@@ -28,7 +28,7 @@ The following **1** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='video walkthrough' title='video walkthrough' width='' alt='video walkthrough' />
+<img src='video walkthrough.gif' title='video walkthrough' width='' alt='video walkthrough' />
 
 GIF created with [QuickTime Payer](https://support.apple.com/downloads/quicktime) and
 Adobe Express (https://express.adobe.com/tools/convert-to-gif).
