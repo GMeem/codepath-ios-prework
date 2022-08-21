@@ -13,28 +13,29 @@ The following **2** functionality is complete:
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
-The following **optional** features are implemented:
+The following **1** features are implemented:
 
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **1** features are implemented:
 
-- [X] i changed the keyboard to number keyboard so that its easier
+- [X] i changed the keyboard to number keyboard so that its easier to type
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='video walkthrough' title='video walkthrough' width='' alt='video walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [QuickTime Payer](https://support.apple.com/downloads/quicktime) and
+Adobe Express (https://express.adobe.com/tools/convert-to-gif).
 
 ## Notes
 
-I tried implementing the first responder with the becomeFirstResponder() but it didn't work. 
+I tried to make it calculate continuously but couldn't.
 
 ## License
 
