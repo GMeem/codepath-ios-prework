@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **1** features are implemented:
 
-- [ ] i changed the keyboard to number keyboard so that its easier
+- [X] i changed the keyboard to number keyboard so that its easier
 
 ## Video Walkthrough
 
